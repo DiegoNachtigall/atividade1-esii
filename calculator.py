@@ -6,7 +6,7 @@ def sum(v1, v2) :
 
 # retorna o valor da subtração entre os dois parâmetros
 def sub(v1, v2) :
-    return
+    return v1 - v2
 
 # retorna o valor da divisão entre os dois parâmetros
 def div(v1, v2) :
